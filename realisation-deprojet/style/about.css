@@ -23,34 +23,25 @@
     width: 100%;
  }
 
- .about-container {
-
-    width: 30%;
-    font-family: var(--universal-font);
-    float: right;
-
- }
+ 
 
  .about-container h2 {
 
    padding-bottom: 20px;
-   color: var(--secondary-color);
+   color: #c92b5a;
  }
  .images-container .image1-container img{
 
-    width: 80%;
+    width: 40%;
  }
 
  .images-container .image2-container img{
 
-    width: 80%;
+    width: 40%;
  }
 
 .images-container img {
 
     margin-bottom: 20px;
 }
- .images-container img:hover{
-
-    transform: scale(1.2);
- }
+ 
