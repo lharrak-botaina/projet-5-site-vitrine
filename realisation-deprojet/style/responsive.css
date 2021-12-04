@@ -1,7 +1,24 @@
 /* responsive for home page */
 
-@media only screen and (max-width: 48em) {
-
+@media only screen and (max-width: 800px) {
     
-
+    
+    .nav-container .nav-list ul  li {
+   
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+       
+    }
+}
+@media only screen and (max-width: 1020px) {
+    
+    
+    .nav-container .nav-list ul  li {
+   
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+       
+    }
 }
