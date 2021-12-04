@@ -13,10 +13,7 @@
      padding: 0;
  }
 
- section {
-
-    font-family: var(--universal-font);
- }
+ 
  
 
  .product-container  {
@@ -39,15 +36,17 @@
 
  .product-description-container h2{
      margin-bottom: 20px;
-     color: var(--secondary-color);
+     color: #c92b5a;
  }
 
  .product-description-container p {
-
+text-align: center;
     margin-bottom: 20px;
  }
  
  .product-description-container span {
+background-color: #c92b5a;
+color: #fff;
 
     font-weight: bolder;
  }
