@@ -23,6 +23,7 @@ border: #c92b5a solid 3px;
     
  }
 
+
  .product-description-container{
 
     margin-top: 60px
@@ -41,8 +42,15 @@ border: #c92b5a solid 3px;
  }
  
  .product-description-container span {
-background-color: #c92b5a;
-color: #fff;
+      background-color: #c92b5a;
+      color: #fff;
 
-    font-weight: bolder;
+      font-weight: bolder;
  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
